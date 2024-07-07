@@ -7,7 +7,8 @@
 -	Fixed bug where if you got some rings but not others then died, those rings would spin out of sync with each other. 
 -	Fixed bug where the Game Over screen would loop continuously instead of restarting the game afterwards. 
 -	Fixed bug where the drowning sound would sometimes play twice.
--	Fixed bug where boss would look like you were hitting it before you enter. 
+-	Fixed bug where boss would look like you were hitting it before you enter.
+- Fixed bug where Sonic would sometimes get stuck at the edge of platforms.
 
 **Enhancements**
 -	Added explosion animation when mobs are killed.
